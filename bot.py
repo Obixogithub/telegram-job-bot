@@ -55,4 +55,4 @@ def main():
     app.run_polling()
 
 if __name__ == "__main__":
-    main()
+    main(app.add_handler(CommandHandler("links", links))
