@@ -1,14 +1,44 @@
 async def links(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
         "Job search links (open manually):\n\n"
+
+        "🌎 REMOTE HR JOBS\n"
+        "RemoteOK HR:\n"
+        "https://remoteok.com/remote-hr-jobs\n\n"
+
+        "Remotive HR Jobs:\n"
+        "https://remotive.com/remote-jobs/hr\n\n"
+
+        "WeWorkRemotely HR:\n"
+        "https://weworkremotely.com/categories/remote-human-resources-jobs\n\n"
+
+        "FlexJobs Remote HR:\n"
+        "https://www.flexjobs.com/remote-jobs/human-resources\n\n"
+
+        "🌎 LINKEDIN\n"
         "LinkedIn HR Kelowna:\n"
         "https://www.linkedin.com/jobs/search/?keywords=human%20resources&location=Kelowna%2C%20British%20Columbia\n\n"
+
         "LinkedIn HR Vancouver:\n"
         "https://www.linkedin.com/jobs/search/?keywords=human%20resources&location=Vancouver%2C%20British%20Columbia\n\n"
+
+        "LinkedIn Remote HR:\n"
+        "https://www.linkedin.com/jobs/search/?keywords=human%20resources&location=Worldwide&f_WT=2\n\n"
+
+        "🌎 GOOGLE JOBS\n"
         "Google Jobs Kelowna:\n"
         "https://www.google.com/search?q=human+resources+jobs+Kelowna+BC\n\n"
+
         "Google Jobs Vancouver:\n"
         "https://www.google.com/search?q=human+resources+jobs+Vancouver+BC\n\n"
-        "WorkBC HR BC:\n"
-        "https://www.workbc.ca/search-and-prepare-job/find-jobs"
+
+        "Google Remote HR Jobs:\n"
+        "https://www.google.com/search?q=remote+human+resources+jobs\n\n"
+
+        "🌎 CANADA JOB BOARDS\n"
+        "WorkBC HR:\n"
+        "https://www.workbc.ca/search-and-prepare-job/find-jobs\n\n"
+
+        "Indeed Remote HR:\n"
+        "https://www.indeed.com/jobs?q=remote+human+resources\n"
     )
