@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Indeed HR Kelowna",
+    "url": "https://rss.indeed.com/rss?q=human+resources&l=Kelowna%2C+BC"
+  },
+  {
+    "name": "Indeed HR Vancouver",
+    "url": "https://rss.indeed.com/rss?q=human+resources&l=Vancouver%2C+BC"
+  },
+  {
+    "name": "Indeed HR British Columbia",
+    "url": "https://rss.indeed.com/rss?q=human+resources&l=British+Columbia"
+  }
+]
